@@ -160,6 +160,7 @@ The **cmdstanr** R package provides an R interface to CmdStan.
 
 ## Papers
 
+* [[2022] Fast methods for posterior inference of two-group normal-normal models](http://www.stat.columbia.edu/~gelman/research/published/two_group_fastnono.pdf). To appear in _Bayesian Analysis_ (Philip Greengard, Jeremy Hoskins, Charles C. Margossian, Jonah Gabry, Andrew Gelman, Aki Vehtari)
 * [[2020] Efficient leave-one-out cross-validation for Bayesian non-factorized normal and Student-t models](https://arxiv.org/pdf/1810.10559.pdf). _Computational Statistics_ (Paul Bürkner, Jonah Gabry, Aki Vehtari)
 * [[2020] Approximate leave-future-out cross-validation for Bayesian time series models](https://arxiv.org/pdf/1902.06281.pdf). _Journal of Statistical Computation and Simulation_ (Paul Bürkner, Jonah Gabry, Aki Vehtari)
 * [[2020] Bayesian hierarchical weighting adjustment and survey inference](https://arxiv.org/pdf/1707.08220). _Survey Methodology_ (Yajuan Si, Rob Trangucci, Jonah Gabry, Andrew Gelman)
