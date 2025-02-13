@@ -178,7 +178,7 @@ Preprints:
 
 * [Preoperative Exposure to Fine Particulate Matter and Risk of Postoperative Complications: A Single Center Observational Cohort Bayesian Analysis](https://www.medrxiv.org/content/10.1101/2024.08.13.24311943v1) (John F Pearson, Cameron Jacobson, Calvin Riss, Matthew Strickland, Longyin Lee, Neng Wan, Tabitha M. Benney, Nathan L Pace, Ben Goodrich, Jonah Gabry, Cade Kartchner, Michael H Andreae)
 * [Multilevel Regression and Poststratification Interface: Application to Track Community-level COVID-19 Viral Transmission](https://arxiv.org/abs/2405.05909) (Yajuan Si, Toan Tran, Jonah Gabry, Mitzi Morris, Andrew Gelman)
-* [Baysian workflow](https://arxiv.org/abs/2011.01808) (Andrew Gelman, Aki Vehtari, Daniel Simpson, Charles C. Margossian, Bob Carpenter, Yuling Yao, Lauren Kennedy, Jonah Gabry, Paul-Christian Bürkner, Martin Modrák)
+* [Bayesian workflow](https://arxiv.org/abs/2011.01808) (Andrew Gelman, Aki Vehtari, Daniel Simpson, Charles C. Margossian, Bob Carpenter, Yuling Yao, Lauren Kennedy, Jonah Gabry, Paul-Christian Bürkner, Martin Modrák)
 * [Using multilevel regression and poststratification to estimate dynamic public opinion](http://www.stat.columbia.edu/~gelman/research/unpublished/MRT(1).pdf). (Andrew Gelman, Jeffrey Lax, Justin Phillips, Jonah Gabry, Robert Trangucci) 
 
 
