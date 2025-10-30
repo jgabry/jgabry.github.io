@@ -41,6 +41,21 @@ The **rstan** package is the [R](https://www.r-project.org) interface to Stan.
 
 <br>
 
+**cmdstanr**
+
+<!--
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/cmdstanr)](https://cran.r-project.org/package=cmdstanr)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/cmdstanr?color=blue)](https://cran.r-project.org/web/packages/cmdstanr)
+-->
+
+The **cmdstanr** package is an alternative interface to Stan from R that is compatible with more recent Stan releases than **rstan**. It is not currently available on CRAN but can be installed easily from GitHub or R-universe.
+<br>
+<!-- [**website**](https://mc-stan.org/cmdstanr) |
+[**CRAN**](https://cran.r-project.org/package=cmdstanr) |
+[**source code on GitHub**](https://github.com/stan-dev/cmdstanr) -->
+[**website**](https://mc-stan.org/cmdstanr) | [**source code on GitHub**](https://github.com/stan-dev/cmdstanr)
+
+<br>
+
 **rstanarm**
 
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/rstanarm)](https://cran.r-project.org/package=rstanarm)
@@ -60,21 +75,6 @@ optimization. The **rstanarm** package allows these models to be
 
 <br>
 
-**shinystan**
-
-[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/shinystan)](https://cran.r-project.org/package=shinystan)
-[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/shinystan?color=blue)](https://cran.r-project.org/web/packages/shinystan)
-
-The **shinystan** R package provides a graphical user interface providing
-interactive visual and numerical summaries of model parameters and convergence
-diagnostics for Bayesian models estimated using MCMC.
-<br>
-[**website**](https://mc-stan.org/shinystan) |
-[**CRAN**](https://cran.r-project.org/package=shinystan) |
-[**source code on GitHub**](https://github.com/stan-dev/shinystan)
-
-<br>
-
 **bayesplot**
 
 [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/bayesplot)](https://cran.r-project.org/package=bayesplot)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/bayesplot?color=blue)](https://cran.r-project.org/web/packages/bayesplot)
@@ -88,8 +88,8 @@ after fitting Bayesian models (typically with MCMC).
 
 A paper about **bayesplot** and visualization in the Bayesian workflow more generally:
 
-* Jonah Gabry, Daniel Simpson, Aki Vehtari, Michael Betancourt, and Andrew Gelman. (2017). Visualization in Bayesian workflow.
-[arXiv preprint arxiv:1709.01449](https://arxiv.org/abs/1709.01449)
+* Jonah Gabry, Daniel Simpson, Aki Vehtari, Michael Betancourt, and Andrew Gelman. (2019). Visualization in Bayesian workflow. *J. R. Stat. Soc. A*, 182: 389-402. doi:10.1111/rssa.12378.
+[published version](https://doi.org/10.1111/rssa.12378) | [arXiv preprint](https://arxiv.org/abs/1709.01449)
 
 <br>
 
@@ -104,13 +104,13 @@ The **loo** R package is for efficient approximate leave-one-out cross-validatio
 [**CRAN**](https://cran.r-project.org/package=loo) |
 [**source code on GitHub**](https://github.com/stan-dev/loo)
 
-The package implements the methods described in these papers with Aki and Andrew:
+The package implements the methods described in these papers: 
 
-* Aki Vehtari, Andrew Gelman, and Jonah Gabry. (2017). Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC. _Statistics and Computing_. 27(5), pp 1413-1432. [(link to published version)](https://link.springer.com/article/10.1007/s11222-016-9696-4)
- | [arXiv preprint arxiv:1507.04544](arxiv.org/abs/1507.04544)
+* Aki Vehtari, Andrew Gelman, and Jonah Gabry. (2017). Practical Bayesian model evaluation using leave-one-out cross-validation and WAIC. _Statistics and Computing_. 27(5), pp 1413-1432. [published version](https://link.springer.com/article/10.1007/s11222-016-9696-4)
+ | [arXiv preprint](arxiv.org/abs/1507.04544)
 
-* Aki Vehtari, Andrew Gelman, and Jonah Gabry. (2016). Pareto smoothed importance sampling.
-[arXiv preprint arxiv:1507.02646](https://arxiv.org/abs/1507.02646)
+* Aki Vehtari, Daniel Simpson, Andrew Gelman, Yuling Yao, and Jonah Gabry. (2024). Pareto smoothed importance sampling. _Journal of Machine Learning Research_. 25(72):1-58
+[published version](https://jmlr.org/papers/v25/19-556.html) | [arXiv preprint](https://arxiv.org/abs/1507.02646)
 
 <br>
 
@@ -141,24 +141,27 @@ of state of the art posterior inference diagnostics.
 
 <br>
 
-**cmdstanr**
+**shinystan**
 
-<!--
-[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/cmdstanr)](https://cran.r-project.org/package=cmdstanr)[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/cmdstanr?color=blue)](https://cran.r-project.org/web/packages/cmdstanr)
--->
+[![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/shinystan)](https://cran.r-project.org/package=shinystan)
+[![RStudio_CRAN_mirror_downloads_badge](https://cranlogs.r-pkg.org/badges/shinystan?color=blue)](https://cran.r-project.org/web/packages/shinystan)
 
-The **cmdstanr** R package provides an R interface to CmdStan.
+The **shinystan** R package provides a graphical user interface providing
+interactive visual and numerical summaries of model parameters and convergence
+diagnostics for Bayesian models estimated using MCMC.
 <br>
-<!-- [**website**](https://mc-stan.org/cmdstanr) |
-[**CRAN**](https://cran.r-project.org/package=cmdstanr) |
-[**source code on GitHub**](https://github.com/stan-dev/cmdstanr) -->
-[**website**](https://mc-stan.org/cmdstanr) | [**source code on GitHub**](https://github.com/stan-dev/cmdstanr)
+[**website**](https://mc-stan.org/shinystan) |
+[**CRAN**](https://cran.r-project.org/package=shinystan) |
+[**source code on GitHub**](https://github.com/stan-dev/shinystan)
 
 <br>
-
-
 
 ## Papers
+
+
+Here's an incomplete list of publications and preprints. You can find additional publications and other details on [Google Scholar profile](https://scholar.google.com/citations?user=5FQDwbwAAAAJ&hl=en). 
+
+#### Published
 
 * [[2024] Pareto Smoothed Importance Sampling](https://arxiv.org/pdf/1507.02646). *Journal of Machine Learning Research* (Aki Vehtari, Daniel Simpson, Andrew Gelman, Yuling Yao, Jonah Gabry)
 * [[2022] Fast methods for posterior inference of two-group normal-normal models](http://www.stat.columbia.edu/~gelman/research/published/two_group_fastnono.pdf). _Bayesian Analysis_ (Philip Greengard, Jeremy Hoskins, Charles C. Margossian, Jonah Gabry, Andrew Gelman, Aki Vehtari)
@@ -174,7 +177,7 @@ The **cmdstanr** R package provides an R interface to CmdStan.
 * [[2017] A pragmatic trial to improve adherence with scheduled appointments in an inner-city pain clinic by human phone calls in the patient’s preferred language](https://www.ncbi.nlm.nih.gov/pubmed/28841451). _Journal of Clinical Anesthesia_. (Michael Andreae, Singh Nair, Jonah Gabry, Ben Goodrich, Charles Hall, Naum Shaparin)
 
 
-Preprints: 
+#### Preprints 
 
 * [Preoperative Exposure to Fine Particulate Matter and Risk of Postoperative Complications: A Single Center Observational Cohort Bayesian Analysis](https://www.medrxiv.org/content/10.1101/2024.08.13.24311943v1) (John F Pearson, Cameron Jacobson, Calvin Riss, Matthew Strickland, Longyin Lee, Neng Wan, Tabitha M. Benney, Nathan L Pace, Ben Goodrich, Jonah Gabry, Cade Kartchner, Michael H Andreae)
 * [Multilevel Regression and Poststratification Interface: Application to Track Community-level COVID-19 Viral Transmission](https://arxiv.org/abs/2405.05909) (Yajuan Si, Toan Tran, Jonah Gabry, Mitzi Morris, Andrew Gelman)
