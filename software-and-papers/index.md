@@ -159,7 +159,7 @@ diagnostics for Bayesian models estimated using MCMC.
 ## Papers
 
 
-Here's an incomplete list of publications and preprints. You can find additional publications and other details on [Google Scholar profile](https://scholar.google.com/citations?user=5FQDwbwAAAAJ&hl=en). 
+Here's an incomplete list of publications and preprints. You can find additional publications and other details on [Google Scholar](https://scholar.google.com/citations?user=5FQDwbwAAAAJ&hl=en). 
 
 #### Published
 
