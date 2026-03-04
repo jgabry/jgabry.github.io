@@ -163,6 +163,7 @@ Here's an incomplete list of publications and preprints. You can find additional
 
 #### Published
 
+* [[2026] Multilevel regression and poststratification interface: an application to track community-level COVID-19 viral transmission](https://rdcu.be/e6M7P) *Population Health Metrics* (Yajuan Si, Toan Tran, Jonah Gabry, Mitzi Morris, Andrew Gelman)
 * [[2024] Pareto Smoothed Importance Sampling](https://arxiv.org/pdf/1507.02646). *Journal of Machine Learning Research* (Aki Vehtari, Daniel Simpson, Andrew Gelman, Yuling Yao, Jonah Gabry)
 * [[2022] Fast methods for posterior inference of two-group normal-normal models](http://www.stat.columbia.edu/~gelman/research/published/two_group_fastnono.pdf). _Bayesian Analysis_ (Philip Greengard, Jeremy Hoskins, Charles C. Margossian, Jonah Gabry, Andrew Gelman, Aki Vehtari)
 * [[2020] Efficient leave-one-out cross-validation for Bayesian non-factorized normal and Student-t models](https://arxiv.org/pdf/1810.10559.pdf). _Computational Statistics_ (Paul Bürkner, Jonah Gabry, Aki Vehtari)
@@ -180,7 +181,6 @@ Here's an incomplete list of publications and preprints. You can find additional
 #### Preprints 
 
 * [Preoperative Exposure to Fine Particulate Matter and Risk of Postoperative Complications: A Single Center Observational Cohort Bayesian Analysis](https://www.medrxiv.org/content/10.1101/2024.08.13.24311943v1) (John F Pearson, Cameron Jacobson, Calvin Riss, Matthew Strickland, Longyin Lee, Neng Wan, Tabitha M. Benney, Nathan L Pace, Ben Goodrich, Jonah Gabry, Cade Kartchner, Michael H Andreae)
-* [Multilevel Regression and Poststratification Interface: Application to Track Community-level COVID-19 Viral Transmission](https://arxiv.org/abs/2405.05909) (Yajuan Si, Toan Tran, Jonah Gabry, Mitzi Morris, Andrew Gelman)
 * [Bayesian workflow](https://arxiv.org/abs/2011.01808) (Andrew Gelman, Aki Vehtari, Daniel Simpson, Charles C. Margossian, Bob Carpenter, Yuling Yao, Lauren Kennedy, Jonah Gabry, Paul-Christian Bürkner, Martin Modrák)
 * [Using multilevel regression and poststratification to estimate dynamic public opinion](http://www.stat.columbia.edu/~gelman/research/unpublished/MRT(1).pdf). (Andrew Gelman, Jeffrey Lax, Justin Phillips, Jonah Gabry, Robert Trangucci) 
 
