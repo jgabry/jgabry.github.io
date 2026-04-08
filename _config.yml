@@ -5,7 +5,7 @@
 
 repository: jgabry.github.io
 # Build settings
-gems: ['jekyll-github-metadata']
+plugins: ['jekyll-github-metadata']
 markdown: kramdown
 exclude: ["README.md"]
 sass:
