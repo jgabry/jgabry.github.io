@@ -8,7 +8,7 @@ layout: default
 **Jump to:**      
 * [Stan](#stan)
 * [R packages](#r-packages)
-* [Papers](#papers)
+* [Papers and books](#papers-and-books)
 * [Tutorials and educational materials](#tutorials-and-educational-materials)
 
 <hr>
@@ -156,13 +156,17 @@ diagnostics for Bayesian models estimated using MCMC.
 
 <br>
 
-## Papers
+## Papers and books
 
 
 Here's an incomplete list of publications and preprints. You can find additional publications and other details on [Google Scholar](https://scholar.google.com/citations?user=5FQDwbwAAAAJ&hl=en). 
 
-#### Published
+#### Books
 
+* [[2026] Bayesian Workflow](https://avehtari.github.io/Bayesian-Workflow/) *Chapman & Hall* (Andrew Gelman, Aki Vehtari, Richard McElreath, Daniel Simpson, Charles C. Margossian, Yuling Yao, Lauren Kennedy, Jonah Gabry, Paul-Christian Bürkner, Martin Modrák, Vianey Leos Barajas)
+
+#### Published papers
+* [[2026] Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study](https://doi.org/10.1111/aas.70235) *Acta Anaesthesiologica Scandinavica* (John F. Pearson, Cameron K. Jacobson, Calvin S. Riss, Matthew J. Strickland, Longyin Lee, Neng Wan, Tabitha M. Benney, Nathan L. Pace, Ben K. Goodrich, Jonah S. Gabry, John V. Pham, Cade K. Kartchner, Jacob A. Wood, Michael H. Andreae)
 * [[2026] Multilevel regression and poststratification interface: an application to track community-level COVID-19 viral transmission](https://rdcu.be/e6M7P) *Population Health Metrics* (Yajuan Si, Toan Tran, Jonah Gabry, Mitzi Morris, Andrew Gelman)
 * [[2024] Pareto Smoothed Importance Sampling](https://arxiv.org/pdf/1507.02646). *Journal of Machine Learning Research* (Aki Vehtari, Daniel Simpson, Andrew Gelman, Yuling Yao, Jonah Gabry)
 * [[2022] Fast methods for posterior inference of two-group normal-normal models](http://www.stat.columbia.edu/~gelman/research/published/two_group_fastnono.pdf). _Bayesian Analysis_ (Philip Greengard, Jeremy Hoskins, Charles C. Margossian, Jonah Gabry, Andrew Gelman, Aki Vehtari)
@@ -180,7 +184,6 @@ Here's an incomplete list of publications and preprints. You can find additional
 
 #### Preprints 
 
-* [Preoperative Exposure to Fine Particulate Matter and Risk of Postoperative Complications: A Single Center Observational Cohort Bayesian Analysis](https://www.medrxiv.org/content/10.1101/2024.08.13.24311943v1) (John F Pearson, Cameron Jacobson, Calvin Riss, Matthew Strickland, Longyin Lee, Neng Wan, Tabitha M. Benney, Nathan L Pace, Ben Goodrich, Jonah Gabry, Cade Kartchner, Michael H Andreae)
 * [Bayesian workflow](https://arxiv.org/abs/2011.01808) (Andrew Gelman, Aki Vehtari, Daniel Simpson, Charles C. Margossian, Bob Carpenter, Yuling Yao, Lauren Kennedy, Jonah Gabry, Paul-Christian Bürkner, Martin Modrák)
 * [Using multilevel regression and poststratification to estimate dynamic public opinion](http://www.stat.columbia.edu/~gelman/research/unpublished/MRT(1).pdf). (Andrew Gelman, Jeffrey Lax, Justin Phillips, Jonah Gabry, Robert Trangucci) 
 
