@@ -166,6 +166,7 @@ Here's an incomplete list of publications and preprints. You can find additional
 * [[2026] Bayesian Workflow](https://avehtari.github.io/Bayesian-Workflow/) *Chapman & Hall* (Andrew Gelman, Aki Vehtari, Richard McElreath, Daniel Simpson, Charles C. Margossian, Yuling Yao, Lauren Kennedy, Jonah Gabry, Paul-Christian Bürkner, Martin Modrák, Vianey Leos Barajas)
 
 #### Published papers
+* [[2026] posterior: Tools for Working with Posterior Distributions in R](https://joss.theoj.org/papers/10.21105/joss.10526). *The Journal of Open Source Software* (Paul-Christian Bürkner, Jonah Gabry, Matthew Kay, Aki Vehtari)
 * [[2026] Bayesian Analysis of Postoperative Complication Risk Associated With Preoperative Exposure to Fine Particulate Matter: A Single-Center Cohort Study](https://doi.org/10.1111/aas.70235) *Acta Anaesthesiologica Scandinavica* (John F. Pearson, Cameron K. Jacobson, Calvin S. Riss, Matthew J. Strickland, Longyin Lee, Neng Wan, Tabitha M. Benney, Nathan L. Pace, Ben K. Goodrich, Jonah S. Gabry, John V. Pham, Cade K. Kartchner, Jacob A. Wood, Michael H. Andreae)
 * [[2026] Multilevel regression and poststratification interface: an application to track community-level COVID-19 viral transmission](https://rdcu.be/e6M7P) *Population Health Metrics* (Yajuan Si, Toan Tran, Jonah Gabry, Mitzi Morris, Andrew Gelman)
 * [[2024] Pareto Smoothed Importance Sampling](https://arxiv.org/pdf/1507.02646). *Journal of Machine Learning Research* (Aki Vehtari, Daniel Simpson, Andrew Gelman, Yuling Yao, Jonah Gabry)
